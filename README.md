@@ -46,9 +46,4 @@ A clean, modern Notes Application built with React Native and Expo. This app all
     npm start
     ```
 
-## AI Usage
 
-This project utilized AI assistance for:
-- Generating initial component structures.
-- Refactoring code for better performance and readability.
-- Designing the data model and search logic.
