@@ -1,4 +1,4 @@
-# Notes App (Local CRUD)
+# Notes App 
 
 A clean, modern Notes Application built with React Native and Expo. This app allows users to create, read, update, and delete notes with a beautiful dark/light mode interface.
 
